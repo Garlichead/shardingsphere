@@ -43,6 +43,7 @@ import java.util.Properties;
 
 /**
  * ShardingSphere data source.
+ * 🤔 datasource和mybatis或者seat的代理顺序是怎么定的
  */
 @RequiredArgsConstructor
 @Getter
